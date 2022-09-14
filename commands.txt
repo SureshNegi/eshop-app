@@ -1,1 +1,1 @@
-nx build ngshop --prod --output-path docs --base-href eshop-app
+nx build ngshop --prod --output-path docs --base-href /eshop-app/
