@@ -6,6 +6,5 @@ module.exports = {
     '<rootDir>/libs/orders',
     '<rootDir>/libs/products',
     '<rootDir>/libs/users',
-    '<rootDir>/libs/test'
-  ]
+  ],
 };
